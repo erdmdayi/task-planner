@@ -1,7 +1,7 @@
-<p align="center">Weekly Task Planner</p>
+<p align="center">Laravel Task Planner</p>
 
 
-## Weekly task planner,
+## Weekly task planner
 
 ### Use Composer to load dependencies in the project:
 
